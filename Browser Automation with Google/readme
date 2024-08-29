@@ -1,0 +1,7 @@
+In this example, we can automate opening Google and inserting in queries to find the answer and print the resultant. Here, we’re seeing how to find the Independence days of four countries:
+
+In Selenium, web automation is done by selecting browser elements in a website running in a browser. For example, let us go to the website Google and see its HTML elements.
+
+To do so, we can click left click and choose the inspect option or, we can press Ctrl+Shift+C and we will see the HTML elements running Google.
+
+As we can see, we can view the HTML and CSS running the site. And, if we hover over the website elements, we can see it highlights the HTML class responsible for running that specific part.
